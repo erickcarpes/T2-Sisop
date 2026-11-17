@@ -1,0 +1,11 @@
+{
+  "integrantes": [
+    {"nome": "Augusto Ely Missiaggia"},
+    {"nome": "Erick Marcondes de Mattos Carpes"}
+  ],
+  "repositorio": "https://github.com/erickcarpes/T2-Sisop",
+  "modulos": ["M1"],
+  "integracao": false,
+  "bonus_flash": false,
+  "observacoes": "Dupla: núcleo N2/N3 completo e módulo M1 (cache LRU/FIFO)."
+}
